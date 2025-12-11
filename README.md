@@ -1,4 +1,5 @@
-#Durante la mia esperienza in Cloudfire come cloud engineer ho preparato e configurato dei server DELL come backup storage destinato ad aziende clienti, e in questo mini tutorial voglio ripercorrere tutti gli step dall'inizio alla fine, spiegando alla fine anche il processo di installazione TrueNAS.
+# Obiettivo
+Durante la mia esperienza in Cloudfire come cloud engineer ho preparato e configurato dei server DELL come backup storage destinato ad aziende clienti, e in questo mini tutorial voglio ripercorrere tutti gli step dall'inizio alla fine, spiegando anche il processo di installazione TrueNAS.
 
 # Cos'è TrueNAS?
 TrueNAS è un sistema operativo per NAS (Network Attached Storage) basato su ZFS, pensato per creare server di storage affidabili, con snapshot, repliche e condivisioni di rete (SMB/NFS/iSCSI) sia in ambienti domestici che aziendali.​
