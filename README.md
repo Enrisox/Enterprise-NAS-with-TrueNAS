@@ -18,3 +18,6 @@ Offre una web GUI completa per creare pool di dischi, condivisioni, utenti, snap
 - **Bay frontali**: 12 × dischi SATA 3.5" da 1 TB (storage dati principale).
 - **Bay posteriori**: 2 × dischi 2.5" da 250 GB circa (utilizzati per il sistema TrueNAS).
 - **Controller**: Dell PERC H730 collegato alla backplane dei dischi.
+
+# Guida
+[TrueNAS.md](docs/TrueNAS.md)
