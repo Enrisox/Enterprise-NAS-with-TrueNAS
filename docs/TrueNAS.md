@@ -1,4 +1,7 @@
-# Montare dischi e slitte
+# Tutorial creazione di un NAS per Backup storage Enterprise con TrueNAS
+
+
+## Montaggio dischi nelle slitte e inserimento nel server Dell
 1. Monta i dischi SATA SSD nelle slitte e inseriscile negli alloggiamenti anteriori del server DELL.
 2. Collega un **cavo Ethernet RJ45** alla porta **dedicata iDRAC** (etichettata "iDRAC" sul retro del server Dell PowerEdge R730xd).
 3. Collega l'**alimentazione** (verifica che entrambi gli alimentatori siano accoppiati se ridondanti).
